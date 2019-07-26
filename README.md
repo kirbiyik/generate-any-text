@@ -3,7 +3,7 @@ Generate any kind of text with character embedding and RNN in pure Numpy.
 
 Note that this project is not optimized for performance. It is rather a reference implementation for many building blocks of neural networks. 
 
-**[Check this list](Example Training) to reach implemented elements.**
+**[Check this list](https://github.com/kirbiyik/generate-any-text#elements) to reach implemented elements.**
 
 ## Example Training
 Clone the repository and change directory into it
