@@ -44,7 +44,7 @@ python inference.py -m model-files/char_rnn_epoch3.pkl -s i
 [See the other arguments.](https://github.com/kirbiyik/generate-any-text/blob/master/inference.py#L9)
 
 ## Elements 
-Click on any item to go related line of code.
+Click on any item to go to related line of code.
 
 - [CharRNN (Sequence to Sequence RNN to produce characters with temperature)](https://github.com/kirbiyik/generate-any-text/blob/master/src/model/CharRNN.py)
 - [Unit tests with numerical gradients to check implementations ](https://github.com/kirbiyik/generate-any-text/blob/master/tests/layers.py)
